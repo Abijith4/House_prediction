@@ -1,0 +1,14 @@
+pip install --upgrade pip
+streamlit
+pandas
+numpy
+pickle
+
+import streamlit as st
+import pandas as pd
+from sklearn import datasets
+from sklearn.ensemble import RandomForestClassifier
+import pickle
+import numpy as np
+
+from PIL import Image

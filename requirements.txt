@@ -1,0 +1,5 @@
+pip install --upgrade pip
+streamlit
+pandas
+numpy
+pickle
